@@ -10,4 +10,4 @@ In this challenge, knowledge of SparkSQL used to determine key metrics about hom
 -  https://github.com/musahas/Home_Sales/blob/main/Home_Sales_colab.ipynb
 
 ###### References 
-- Coded used and modified from class activity solutions provided by instructors, ChatGpt and github.  
+- Code used and modified from class activity solutions provided by instructors, ChatGpt and github.  
