@@ -1,5 +1,5 @@
 ##### Home_Sales
-In this challenge, knowledge of SparkSQL used to determine key metrics about home sales data. Spark used to create temporary views, partitioning, cache and uncache te created temporary table, and finanly uncached the temp table.
+In this challenge, knowledge of SparkSQL used to determine key metrics about home sales data. Spark used to create temporary views, partitioning, cache/uncache the created temporary table.
 
 - Note: coding conducted on Google Colaboratory
 
